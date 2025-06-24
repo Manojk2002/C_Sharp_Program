@@ -7,6 +7,7 @@ namespace Assignment_1
     {
         static void Main()
         {
+            /*fdsffd*/
             Console.Write("Input a number: ");
             int num = Convert.ToInt32(Console.ReadLine());
 
